@@ -1,0 +1,22 @@
+{
+  "name": "visual-regression-cli",
+  "version": "0.0.0",
+  "description": "this is a placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/visualregression/cli.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "Hannes Diercks <visual-regression@xiphe.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/visualregression/cli/issues"
+  },
+  "homepage": "https://github.com/visualregression/cli#readme"
+}
